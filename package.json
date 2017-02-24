@@ -1,6 +1,6 @@
 {
   "name": "@theatersoft/infrared",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bus service module for IR control",
   "repository": "theatersoft/infrared",
   "main": "dist/infrared.js",
